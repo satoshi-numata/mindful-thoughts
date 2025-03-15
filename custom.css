@@ -5,3 +5,146 @@ li {
 body {
   padding-bottom: 100px;
 }
+
+
+/** 本文 **/
+
+p,ul,ol {
+  margin-left: 1em;
+}
+
+
+/** 見出し2 **/
+
+h2 {
+  position: relative;
+  padding-left: 1.2em;/*アイコン分のスペース*/
+  line-height: 1.4;
+}
+
+h2:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f00c";/*アイコンのユニコード*/
+  font-weight: 900;
+  position: absolute;/*絶対位置*/
+  font-size: 1em;/*サイズ*/
+  left: 0;/*アイコンの位置*/
+  top: 0;/*アイコンの位置*/
+  color: #5ab9ff; /*アイコン色*/
+  font-weight: 900;
+}
+
+
+/** 見出し3 **/
+
+h3 {
+  position: relative;
+  background: #ffd98a;
+  padding: 2px 5px 2px 25px;
+  font-size: 20px;
+  color: #474747;
+  border-radius: 0 10px 10px 0;
+  margin-left: 0.8em;
+  margin-top: 2.0em !important;
+}
+
+h3:before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f135";
+  display: inline-block;
+  line-height: 40px;
+  position: absolute;
+  padding: 0em;
+  color: white;
+  background: #ffa337;
+  font-weight: 900;
+  width: 40px;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  left: -1.35em;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  border: solid 3px white; 
+  border-radius: 50%;
+}
+
+
+/** 見出し4 **/
+
+h4 {
+  background: linear-gradient(transparent 70%, #b7e6ff 70%) !important;
+  margin-right: 30% !important;
+  margin-top: 2.0em !important;
+  padding-left: 0.6em !important;
+}
+
+
+/** 見出し5 **/
+
+h5 {
+  position: relative;
+  margin-top: 2.0em !important;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  padding-left: 1.0em;
+  padding-right: 4.0em;
+  background: -webkit-repeating-linear-gradient(-45deg, #fff5df, #fff5df 4px,#ffe4b1 3px, #ffe4b1 8px);
+  background: repeating-linear-gradient(-45deg, #fff5df, #fff5df 4px,#ffe4b1 3px, #ffe4b1 8px);
+  border-radius: 7px;
+  width: fit-content;
+  font-size: 1em !important;
+}
+
+h5:after {
+  position: absolute;
+  content: '';
+  top: 100%;
+  left: 30px;
+  border: 15px solid transparent;
+  border-top: 15px solid #ffebbe;
+  width: 0;
+  height: 0;
+}
+
+
+/** 見出し6 **/
+
+h6 {
+  font-size: 1em !important;
+  color: black !important;
+  position: relative;
+  border-top: solid 2px #80c8d1;
+  border-bottom: solid 2px #80c8d1;
+  background: #f4f4f4;
+  line-height: 1.4;
+  padding: 0.4em 0.8em;
+  margin-top: 3em !important;
+  width: fit-content;
+}
+
+h6:after {
+  /*タブ*/
+  position: absolute;
+  font-family: "Font Awesome 5 Free",'Quicksand','Avenir','Arial',sans-serif;
+  font-weight: 900;
+  content: '\f0a7\ POINT';
+  background: #80c8d1;
+  color: #fff;
+  left: 0px;
+  bottom: 100%;
+  border-radius: 5px 5px 0 0;
+  padding: 5px 7px 3px;
+  font-size: 0.7em;
+  line-height: 1;
+  letter-spacing: 0.05em;
+}
+
+
+/** リスト **/
+
+ul, ol {
+  margin-top: 1.5em !important;
+}
+
