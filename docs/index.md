@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="custom.css?ver=1">
+<link rel="stylesheet" type="text/css" href="custom.css?ver=2">
 
 # このサイトについて
 
