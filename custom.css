@@ -27,8 +27,8 @@ h2 {
 }
 
 h2:before {
-  font-family: "Font Awesome 5 Free";
-  content: "\f00c";/*アイコンのユニコード*/
+  font-family: "Font Awesome 6 Free";
+  content: "\f56b";
   font-weight: 900;
   position: absolute;/*絶対位置*/
   font-size: 1em;/*サイズ*/
@@ -54,8 +54,8 @@ h3 {
 }
 
 h3:before {
-  font-family: "Font Awesome 5 Free";
-  content: "\f135";
+  font-family: "Font Awesome 6 Free";
+  content: "\f08d";
   display: inline-block;
   line-height: 40px;
   position: absolute;
