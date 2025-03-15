@@ -1,5 +1,5 @@
-<link rel="stylesheet" type="text/css" href="custom.css?ver=3">
-<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+<link href="https://satoshi-numata.github.io/notes/custom.css" rel="stylesheet">
+<link href="https://use.fontawesome.com/releases/v6.7.2/css/all.css" rel="stylesheet">
 
 ## 沼田 哲史のノート - このサイトについて
 
