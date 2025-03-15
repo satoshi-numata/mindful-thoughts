@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="custom.css?ver=3">
 <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 
-## このサイトについて
+## 沼田 哲史のノート - このサイトについて
 
 このサイトでは、沼田が授業時間だけでは語りきれない思考法や学習法、そして人生全般にわたる話題をエッセイ風に共有していきます。
 
