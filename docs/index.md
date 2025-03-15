@@ -1,3 +1,9 @@
+---
+title: "mindful-thoughts について"
+---
+
+<link rel="stylesheet" type="text/css" href="custom.css">
+
 # mindful-thoughts へようこそ
 
 このサイトでは、沼田が授業時間だけでは語りきれない思考法や学習法、そして人生全般にわたる話題をエッセイ風に共有していきます。
