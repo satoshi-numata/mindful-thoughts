@@ -10,7 +10,9 @@ body {
 /** 本文 **/
 
 p,ul,ol {
+  margin-bottom: 1.7em !important;
   margin-left: 1em;
+  line-height: 1.6em;
 }
 
 

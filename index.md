@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" href="custom.css?ver=3">
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 
 # このサイトについて
 
