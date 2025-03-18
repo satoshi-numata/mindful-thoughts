@@ -47,7 +47,7 @@ title: 読書メモの取り方
 
 <img src="reading-memo.png" width="300">
 
-- [読書メモのダウンロード (PDF)](reading-note_20250318_1325.pdf)
+- [読書メモのダウンロード (PDF)](reading-note_20250318_1533.pdf)
 
 
 ### ひと区切りごとにメモを取る
