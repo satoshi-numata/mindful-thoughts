@@ -7,7 +7,7 @@ title: 読書メモの取り方
 
 ## 読書メモの取り方
 
-[読書フォルダ に戻る](../index.md)
+<i class="fa-solid fa-circle-up"></i> [読書フォルダに戻る](../index.md)
 
 ### 目次
 
