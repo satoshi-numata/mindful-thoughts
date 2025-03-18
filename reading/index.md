@@ -6,3 +6,12 @@
 このフォルダでは、読書に関するトピックを扱います。
 深く読書を楽しむための工夫、おすすめの本や本の感想などを記事として公開していきます。
 
+### コンテンツ一覧
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.path contains 'reading/' and page.path != 'reading/index.md' and page.name == 'index.md' %}
+      <li><a href="{{ page.url }}">{{ page.dir | replace: 'reading/', '' | replace: '/', '' }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
