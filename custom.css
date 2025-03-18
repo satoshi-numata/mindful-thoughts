@@ -154,6 +154,15 @@ ul, ol {
   margin-top: 1.5em !important;
 }
 
+ul ul, ul ol, ol ul, ol ol {
+  margin-top: 0.8em !important;
+}
+
+ul ul ul, ul ul ol, ul ol ul, ul ol ol,
+ol ul ul, ol ul ol, ol ol ul, ol ol ol {
+  margin-top: 0.8em !important;
+}
+
 li {
   margin-top: 10px;
 }
