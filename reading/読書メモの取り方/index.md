@@ -7,6 +7,13 @@ title: 読書メモの取り方
 
 ## 読書メモの取り方
 
+<ul>
+  {% for heading in page.content | split: "<h3>" %}
+    {% if forloop.first == false %}
+      <li><a href="#{{ heading | strip_html | slugify }}">{{ heading | strip_html }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 ### 読書メモ
