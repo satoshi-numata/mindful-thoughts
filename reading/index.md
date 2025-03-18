@@ -11,7 +11,7 @@
 <ul>
   {% for page in site.pages %}
     {% if page.path contains 'reading/' and page.path != 'reading/index.md' and page.name == 'index.md' %}
-      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.dir | replace: 'reading/', '' | replace: '/', '' | uri_decode }}</a></li>
+      <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.dir | replace: 'reading/', '' | replace: '/', '' | uri_decode | split: '-' | last }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
