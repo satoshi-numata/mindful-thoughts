@@ -1,7 +1,11 @@
 <link href="https://satoshi-numata.github.io/notes/custom.css" rel="stylesheet">
 <link href="https://use.fontawesome.com/releases/v6.7.2/css/all.css" rel="stylesheet">
 
-## このサイトについて | 沼田 哲史のノート
+---
+title: このサイトについて
+---
+
+## このサイトについて
 
 このサイトでは、沼田が授業時間だけでは語りきれない思考法や学習法、そして人生全般にわたる話題をエッセイ風に共有していきます。
 
