@@ -167,6 +167,15 @@ li {
   margin-top: 10px;
 }
 
+ul ul > li, ul ol > li, ol ul > li, ol ol > li {
+  margin-top: 5px !important;
+}
+
+/* 3段階目の li */
+ul ul ul > li, ul ul ol > li, ul ol ul > li, ul ol ol > li,
+ol ul ul > li, ol ul ol > li, ol ol ul > li, ol ol ol > li {
+  margin-top: 5px !important;
+}
 
 /** 引用文 **/
 
