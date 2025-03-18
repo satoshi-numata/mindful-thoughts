@@ -21,21 +21,21 @@
 
 ### ドキュメント構成
 
-- **[`/docs/coaching`](coaching/index.md) フォルダ：**
+- **[`coaching`](coaching/index.md) フォルダ：**
 コーチング的な考え方やメソッド、自己啓発に関するトピックをまとめます。
-- **[`/docs/life-balance`](life-balance/index.md) フォルダ：**
+- **[`life-balance`](life-balance/index.md) フォルダ：**
 時間管理・モチベーション維持など、人生全般のバランスに関わる話をまとめます。
-- **[`/docs/notetaking`](notetaking/index.md) フォルダ：**
+- **[`notetaking`](notetaking/index.md) フォルダ：**
 ノートの書き方やアイデアの整理方法に関するトピックをまとめます。深く読書を楽しむための工夫、おすすめの本などを記事として公開していきます。
-- **[`/docs/philosophy`](philosophy/index.md) フォルダ：**
+- **[`philosophy`](philosophy/index.md) フォルダ：**
 インド哲学や東洋哲学などを解説した記事をまとめます。
-- **[`/docs/programming`](programming/index.md) フォルダ：**
+- **[`programming`](programming/index.md) フォルダ：**
 コーディングやプログラミング技術を扱うセクションです。
-- **[`/docs/reading`](reading/index.md) フォルダ：**
+- **[`reading`](reading/index.md) フォルダ：**
 読書に関するトピックをまとめます。深く読書を楽しむための工夫、おすすめの本や本の感想などを記事として公開していきます。
-- **[`/docs/thinking`](thinking/index.md) フォルダ：**
+- **[`thinking`](thinking/index.md) フォルダ：**
 具体的な思考技術や思考実験の話題をまとめます。
-- **[`/docs/others`](others/index.md) フォルダ：**
+- **[`others`](others/index.md) フォルダ：**
 分類が難しいトピックや、雑記的に書きたい内容をまとめておくフォルダです。
 
 
