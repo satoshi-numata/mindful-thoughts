@@ -80,10 +80,23 @@ h3:before {
 /** 見出し4 **/
 
 h4 {
-  background: linear-gradient(transparent 70%, #b7e6ff 70%) !important;
+  position: relative;
   margin-right: 30% !important;
   margin-top: 2.0em !important;
-  padding-left: 0.6em !important;
+  padding-left: 1.0em !important;
+  display: inline-block;
+  z-index: 1;
+}
+
+h4::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 10px; /* 左端から10px右にずらす */
+  width: calc(100% + 10px); /* 線の長さを調整 */
+  height: 5px; /* アンダーラインの太さ */
+  background: linear-gradient(to right, #b7e6ff 0%, #b7e6ff 80%, #ffffff 100%);
+  z-index: -1;
 }
 
 
